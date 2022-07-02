@@ -803,8 +803,8 @@ export const HomePageHandyMan = ({ navigation }) => {
 {/* second comment */}
 {/* third comment */}
 {/* forth comment  */}
+{/* BHAI net nii ha kuch b ni haa task bhja dekhy */}
       </View>
     </SafeAreaView>
   );
 };
-// bhai net nii mere pass kuch kry task bhj diya ha favorite seslect krna form bnana request bjni

@@ -801,6 +801,7 @@ export const HomePageHandyMan = ({ navigation }) => {
           null
         }
 {/* second comment */}
+{/* third comment */}
       </View>
     </SafeAreaView>
   );

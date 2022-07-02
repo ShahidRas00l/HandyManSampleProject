@@ -800,7 +800,7 @@ export const HomePageHandyMan = ({ navigation }) => {
           :
           null
         }
-{/* bhai ya kam nie ho raha hy */}
+{/* second comment */}
       </View>
     </SafeAreaView>
   );
